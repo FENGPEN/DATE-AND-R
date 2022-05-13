@@ -1,0 +1,11 @@
+probe	class	dirct
+CPLX2	CS1	up
+JPH3	CS1	up
+ST8SIA3	CS1	up
+CA10	CS1	up
+SCRT1	CS1	up
+ANXA1	CS2	up
+COL3A1	CS2	up
+PDPN	CS2	up
+COL1A2	CS2	up
+SOCS3	CS2	up
